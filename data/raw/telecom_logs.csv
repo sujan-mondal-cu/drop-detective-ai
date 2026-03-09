@@ -1,0 +1,5 @@
+Region,Tower_ID,Date,Call_Drops,Signal_Strength,Congestion_Level,Handoff_Failure,Notes
+Hyderabad,T123,2025-09-01,56,-95,High,12,Heavy user load
+Hyderabad,T123,2025-09-02,72,-97,High,15,Peak hour traffic
+Delhi,T456,2025-09-01,34,-88,Medium,8,Poor weather
+Mumbai,T789,2025-09-01,22,-75,Low,2,Normal operation
