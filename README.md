@@ -103,7 +103,7 @@ Kolkata,T200,2025-09-02,47,-93,High,12,Peak hour congestion
 Clone the repository:
 
 ```
-git clone https://github.com/yourusername/drop-detective-ai.git
+git clone https://github.com/sujan-mondal-cu/drop-detective.git
 cd drop-detective-ai
 ```
 
