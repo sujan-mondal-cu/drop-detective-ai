@@ -1,5 +1,27 @@
 Region,Tower_ID,Date,Call_Drops,Signal_Strength,Congestion_Level,Handoff_Failure,Notes
 Hyderabad,T123,2025-09-01,56,-95,High,12,Heavy user load
 Hyderabad,T123,2025-09-02,72,-97,High,15,Peak hour traffic
+Hyderabad,T124,2025-09-01,48,-92,High,10,Network congestion
+Hyderabad,T124,2025-09-02,60,-94,High,11,High user activity
 Delhi,T456,2025-09-01,34,-88,Medium,8,Poor weather
+Delhi,T456,2025-09-02,38,-89,Medium,9,Weather interference
+Delhi,T457,2025-09-01,29,-85,Medium,6,Normal load
+Delhi,T457,2025-09-02,31,-86,Medium,7,Slight congestion
 Mumbai,T789,2025-09-01,22,-75,Low,2,Normal operation
+Mumbai,T789,2025-09-02,20,-74,Low,2,Stable network
+Mumbai,T790,2025-09-01,26,-78,Low,3,Moderate traffic
+Mumbai,T790,2025-09-02,28,-79,Medium,4,Evening peak
+Bangalore,T900,2025-09-01,40,-90,High,11,Office hour traffic
+Bangalore,T900,2025-09-02,45,-91,High,12,High data usage
+Bangalore,T901,2025-09-01,33,-87,Medium,7,Moderate load
+Bangalore,T901,2025-09-02,35,-88,Medium,8,User activity
+Chennai,T100,2025-09-01,25,-82,Low,3,Normal traffic
+Chennai,T100,2025-09-02,27,-83,Low,4,Stable usage
+Chennai,T101,2025-09-01,30,-85,Medium,6,Moderate load
+Chennai,T101,2025-09-02,32,-86,Medium,7,User growth
+Kolkata,T200,2025-09-01,42,-91,High,10,Heavy user load
+Kolkata,T200,2025-09-02,47,-93,High,12,Peak hour congestion
+Kolkata,T201,2025-09-01,36,-88,Medium,8,Moderate traffic
+Kolkata,T201,2025-09-02,39,-89,Medium,9,Evening congestion
+Kolkata,T202,2025-09-01,28,-84,Low,5,Normal operation
+Kolkata,T202,2025-09-02,31,-85,Low,6,Stable network
